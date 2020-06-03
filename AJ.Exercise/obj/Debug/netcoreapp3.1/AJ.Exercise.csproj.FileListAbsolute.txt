@@ -1,0 +1,11 @@
+C:\Users\alfjo\source\repos\AJ.Exercise\AJ.Exercise\bin\Debug\netcoreapp3.1\AJ.Exercise.exe
+C:\Users\alfjo\source\repos\AJ.Exercise\AJ.Exercise\bin\Debug\netcoreapp3.1\AJ.Exercise.deps.json
+C:\Users\alfjo\source\repos\AJ.Exercise\AJ.Exercise\bin\Debug\netcoreapp3.1\AJ.Exercise.runtimeconfig.json
+C:\Users\alfjo\source\repos\AJ.Exercise\AJ.Exercise\bin\Debug\netcoreapp3.1\AJ.Exercise.runtimeconfig.dev.json
+C:\Users\alfjo\source\repos\AJ.Exercise\AJ.Exercise\bin\Debug\netcoreapp3.1\AJ.Exercise.dll
+C:\Users\alfjo\source\repos\AJ.Exercise\AJ.Exercise\bin\Debug\netcoreapp3.1\AJ.Exercise.pdb
+C:\Users\alfjo\source\repos\AJ.Exercise\AJ.Exercise\obj\Debug\netcoreapp3.1\AJ.Exercise.csprojAssemblyReference.cache
+C:\Users\alfjo\source\repos\AJ.Exercise\AJ.Exercise\obj\Debug\netcoreapp3.1\AJ.Exercise.AssemblyInfoInputs.cache
+C:\Users\alfjo\source\repos\AJ.Exercise\AJ.Exercise\obj\Debug\netcoreapp3.1\AJ.Exercise.AssemblyInfo.cs
+C:\Users\alfjo\source\repos\AJ.Exercise\AJ.Exercise\obj\Debug\netcoreapp3.1\AJ.Exercise.dll
+C:\Users\alfjo\source\repos\AJ.Exercise\AJ.Exercise\obj\Debug\netcoreapp3.1\AJ.Exercise.pdb
