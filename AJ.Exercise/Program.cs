@@ -7,12 +7,8 @@ namespace AJ.Exercise
 {
     public class Program
     {
-        private static int[,] workingArray;
-
         public static void Main(string[] args)
         {
-            Console.WriteLine("********* WELCOME TO MY EXERCISE PROJECT *********" + Environment.NewLine);
-
             Console.WriteLine("Insert size of matrix:");
             var sizeOfMatrix = Console.ReadLine();
 
@@ -47,7 +43,7 @@ namespace AJ.Exercise
             {
                 if (command == Command.End)
                 {
-                    Console.WriteLine("¨Result: " + movingObject.CurrentPosition);
+                    Console.WriteLine("Result: " + movingObject.CurrentPosition);
                 }
                 else if (command == Command.Forward)
                 {
