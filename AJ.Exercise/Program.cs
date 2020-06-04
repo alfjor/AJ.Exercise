@@ -32,6 +32,7 @@ namespace AJ.Exercise
             {
                 Console.WriteLine("Result: [-1, -1]");
             }
+            Console.ReadLine();
         }
 
         public static void Simulate(string commands, MovingObject movingObject, int maxX, int maxY)
